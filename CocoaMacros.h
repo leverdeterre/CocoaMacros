@@ -1,6 +1,6 @@
 //
-//  Created by Jerome Morissard on 12/29/13.
-//  Copyright (c) 2013 Jerome Morissard. All rights reserved.
+//  Created by Jerome Morissard on 03/05/14.
+//  Copyright (c) 2014 Jerome Morissard. All rights reserved.
 //
 
 #ifndef JMOMacros_h
